@@ -1,0 +1,7 @@
+numpy
+ipywidgets
+nbinteract
+time
+bqplot
+sklearn
+IPython
